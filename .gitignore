@@ -1,0 +1,6 @@
+# virual environment
+.venv/
+# Python cache
+__pycache__/
+# .env data
+.env

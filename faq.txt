@@ -1,0 +1,17 @@
+Orders are processed as soon as they are received. Once an order is confirmed, customers receive an email with the order details and estimated delivery timeline. Orders typically ship within 1-2 business days, and tracking information is provided once the shipment is dispatched. In case of delays, customers are notified promptly via email or SMS.
+
+Shipping options vary depending on location and the selected delivery method. Standard shipping generally takes 3-7 business days, while express options may be available for faster delivery. International shipping is also supported for select countries, with estimated delivery timelines provided at checkout.
+
+Payments can be made using a variety of methods, including credit/debit cards, digital wallets, net banking, and select Buy Now, Pay Later services. All transactions are secured with encryption protocols to ensure customer safety. Refunds for cancelled or returned orders are processed within 5-7 business days, depending on the original method of payment.
+
+Returns and exchanges are accepted within 7–30 days of delivery, provided the item is unused, in its original condition, and returned with all tags and packaging. Return shipping is free for damaged or incorrect items. Refunds are initiated after the returned item is received and inspected.
+
+Product availability and stock levels are updated regularly. If an item is out of stock, customers can opt to receive restock notifications. Product pages include detailed descriptions, specifications, and customer reviews to help shoppers make informed decisions.
+
+Account holders can view order history, manage shipping addresses, and track ongoing orders through the account dashboard. For forgotten passwords or login issues, password reset links are available on the sign-in page.
+
+Promotions, discounts, and coupon codes are applied at checkout. Some discounts may be automatically applied, while others may require entering a code. Terms and conditions for each offer are displayed on the promotions page.
+
+Customer support is available via email, live chat, and phone during business hours. For urgent queries, live chat is the fastest way to receive assistance. Support agents are trained to handle inquiries related to orders, returns, product details, payments, and account management.
+
+Data privacy and customer security are top priorities. Personal information is handled in accordance with the site's privacy policy and is never shared with third parties without consent. Customers can manage their communication preferences through account settings.
