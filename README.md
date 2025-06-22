@@ -139,5 +139,5 @@ Assistant: Yes, coupon codes can be applied at checkout. Terms and conditions fo
 
 
 ## 📄 License
-[MIT License](LICENSE.md) – feel free to use, modify, and contribute.
+[MIT License](./LICENSE.md) – feel free to use, modify, and contribute.
 
